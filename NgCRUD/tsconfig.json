@@ -3,7 +3,6 @@
   "compilerOptions": {
     "baseUrl": "./",
     "123":"123",
-    "456":"111",
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
     "declaration": false,
